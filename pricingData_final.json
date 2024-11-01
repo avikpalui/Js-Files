@@ -1,0 +1,83 @@
+[
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Essential",
+        "outpatientPlan": "None",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 2712.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Extensive",
+        "outpatientPlan": "None",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 2913.38
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Essential",
+        "outpatientPlan": "Essential",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5167.28
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Extensive",
+        "outpatientPlan": "Extensive",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5738.81
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Essential",
+        "outpatientPlan": "None",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 3591.85
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Essential",
+        "outpatientPlan": "Essential",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6047.0
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Extensive",
+        "outpatientPlan": "Extensive",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6618.52
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Extensive",
+        "outpatientPlan": "None",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 3793.09
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Essential",
+        "outpatientPlan": "None",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 3285.97
+    }
+]
