@@ -1,0 +1,2162 @@
+[
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 2712.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 2913.38
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5167.28
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5738.81
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 3591.85
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6047.0
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6618.52
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 3793.09
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 3285.97
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 3526.3
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 6209.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 6891.06
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 4172.58
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 7095.75
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 7777.67
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 4412.92
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 3446.96
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 3706.85
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 6970.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 7758.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 4326.67
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 7850.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 8637.83
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 4586.56
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 4161.08
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 4470.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 8358.39
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 9294.45
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 5047.69
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 9245.01
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 10181.07
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 5357.03
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 4665.91
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5032.74
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 9389.9
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 10489.25
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 5545.62
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 10269.61
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 11368.96
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 5912.45
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 5612.31
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 6049.3
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 11237.87
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 12546.51
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6498.93
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 12124.48
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 13433.12
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 6935.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 6661.07
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 7191.2
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 13276.73
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 14824.56
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 7540.78
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 14156.44
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 15704.28
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 8070.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 7988.11
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 8620.58
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 15866.42
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 17710.94
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 8874.72
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 16753.03
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 18597.55
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 9507.19
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 8342.3
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 9055.26
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 19089.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 21497.72
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 9222.01
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 19969.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 22377.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 9934.98
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 9991.32
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 10838.84
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 22789.12
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "SEA/Global",
+        "netPrice": 25654.79
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 10877.94
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 23675.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 26541.4
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "SEA/Global",
+        "netPrice": 11725.45
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 2712.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 2913.38
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 5167.28
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 5738.81
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 3591.85
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 6047.0
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 6618.52
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 3793.09
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 3285.97
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 3526.3
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 6209.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 6891.06
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 4172.58
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 7095.75
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 7777.67
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 4412.92
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 3446.96
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 3706.85
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 6970.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 7758.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 4326.67
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 7850.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 8637.83
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 4586.56
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 4161.08
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 4470.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 8358.39
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 9294.45
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 5047.69
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 9245.01
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 10181.07
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 5357.03
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 4665.91
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 5032.74
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 9389.9
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 10489.25
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 5545.62
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 10269.61
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 11368.96
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 5912.45
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 5612.31
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 6049.3
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 11237.87
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 12546.51
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 6498.93
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 12124.48
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 13433.12
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 6935.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 6661.07
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 7191.2
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 13276.73
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 14824.56
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 7540.78
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 14156.44
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 15704.28
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 8070.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 7988.11
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 8620.58
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 15866.42
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 17710.94
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 8874.72
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 16753.03
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 18597.55
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 9507.19
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 8342.3
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 9055.26
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 19089.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 21497.72
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 9222.01
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 19969.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 22377.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 9934.98
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 9991.32
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 10838.84
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 22789.12
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "HK/China",
+        "netPrice": 25654.79
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 10877.94
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 23675.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 26541.4
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "HK/China",
+        "netPrice": 11725.45
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 2712.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 2913.38
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 5167.28
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 5738.81
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 3591.85
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 6047.0
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 6618.52
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 3793.09
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 3285.97
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 3526.3
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 6209.14
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 6891.06
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 4172.58
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 7095.75
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 7777.67
+    },
+    {
+        "ageBand": "0-25",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 4412.92
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 3446.96
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 3706.85
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 6970.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 7758.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 4326.67
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 7850.12
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 8637.83
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 4586.56
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 4161.08
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 4470.41
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 8358.39
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 9294.45
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 5047.69
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 9245.01
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 10181.07
+    },
+    {
+        "ageBand": "26-35",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 5357.03
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 4665.91
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 5032.74
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 9389.9
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 10489.25
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 5545.62
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 10269.61
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 11368.96
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 5912.45
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 5612.31
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 6049.3
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 11237.87
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 12546.51
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 6498.93
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 12124.48
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 13433.12
+    },
+    {
+        "ageBand": "36-45",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 6935.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 6661.07
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 7191.2
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 13276.73
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 14824.56
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 7540.78
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 14156.44
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 15704.28
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 8070.91
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 7988.11
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 8620.58
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 15866.42
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 17710.94
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 8874.72
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 16753.03
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 18597.55
+    },
+    {
+        "ageBand": "46-55",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 9507.19
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 8342.3
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 9055.26
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 19089.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 21497.72
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 9222.01
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 19969.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 22377.44
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "SUW",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 9934.98
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 9991.32
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 10838.84
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 22789.12
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "No",
+        "location": "Europe",
+        "netPrice": 25654.79
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 10877.94
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Standard",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 23675.73
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "Yes",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 26541.4
+    },
+    {
+        "ageBand": "56-65",
+        "insure": "MHD",
+        "inpatientPlan": "Max",
+        "outpatientPlan": "No",
+        "dentalPlan": "Yes",
+        "location": "Europe",
+        "netPrice": 11725.45
+    }
+]
