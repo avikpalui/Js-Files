@@ -1491,7 +1491,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 6047.0
+        "netPrice": 7805.00
     },
     {
         "ageBand": "0-25",
@@ -1500,7 +1500,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 6618.52
+        "netPrice": 8548.00
     },
     {
         "ageBand": "0-25",
@@ -1563,7 +1563,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 7095.75
+        "netPrice": 9168.00
     },
     {
         "ageBand": "0-25",
@@ -1572,7 +1572,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 7777.67
+        "netPrice": 10055.00
     },
     {
         "ageBand": "0-25",
@@ -1635,7 +1635,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 7850.12
+        "netPrice": 10149.00
     },
     {
         "ageBand": "26-35",
@@ -1644,7 +1644,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 8637.83
+        "netPrice": 11173.00
     },
     {
         "ageBand": "26-35",
@@ -1707,7 +1707,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 9245.01
+        "netPrice": 11962.00
     },
     {
         "ageBand": "26-35",
@@ -1716,7 +1716,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 10181.07
+        "netPrice": 13179.00
     },
     {
         "ageBand": "26-35",
@@ -1779,7 +1779,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 10269.61
+        "netPrice": 13294.00
     },
     {
         "ageBand": "36-45",
@@ -1788,7 +1788,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 11368.96
+        "netPrice": 14723.00
     },
     {
         "ageBand": "36-45",
@@ -1851,7 +1851,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 12124.48
+        "netPrice": 15705.00
     },
     {
         "ageBand": "36-45",
@@ -1860,7 +1860,7 @@
         "outpatientPlan": "Yes",
         "dentalPlan": "Yes",
         "location": "Europe",
-        "netPrice": 13433.12
+        "netPrice": 17407.00
     },
     {
         "ageBand": "36-45",
